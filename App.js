@@ -24,7 +24,7 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
-const welcome = 'Welcome to the new app!!!';
+const welcome = 'Welcome to the new app!!';
 const getstarted = 'To get started, edit App.js';
 
 export default class App extends Component<{}> {
